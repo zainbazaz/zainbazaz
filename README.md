@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Zain Bazaz! I'm a full-stack software engineer @100Devs.</h1>
 
-<p>Detail oriented full-stack software engineer who is proficient in HTML, CSS, Javascript, Node.js, MongoDB, and React. I work to create excellent, responsive websites that suit the wants and needs of my clients and am eager to solve problems through innovative solutions and collaboration.</p>
+<p>Detail oriented full-stack software engineer who is proficient in HTML, CSS, Javascript, Node.js, MongoDB, and React. I work to create excellent, responsive web applicatoins that suit the wants and needs of my clients and am eager to solve problems through innovative solutions and collaboration.</p>
 
 <!-- All of my projects are available [here]().  -->
 
