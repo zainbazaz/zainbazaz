@@ -2,7 +2,7 @@
 
 <p>Detail oriented full-stack software engineer who is proficient in HTML, CSS, Javascript, Node.js, MongoDB, and React. I work to create excellent, responsive websites that suit the wants and needs of my clients and am eager to solve problems through innovative solutions and collaboration.</p>
 
-All of my projects are available [here](). 
+<!-- All of my projects are available [here]().  -->
 
 >You can reach me @ **zainbazaz96@gmail.com**.
 
@@ -30,7 +30,7 @@ All of my projects are available [here]().
 </table>
 <br>
 
-<h3>See some of the projects I've contributed to:</h3>
+<h3>See some of the projects I've built:</h3>
    <section dir='auto'>
     <table>
       <tbody>
@@ -46,7 +46,17 @@ All of my projects are available [here]().
               <p>You can access this app <a href='https://bartender-cocktail-search.netlify.app'>here</a>.</p>
             </p>
           </td>
-           
+          <td width='33%' valign='top'>
+            <h4>Space themed wallpaper generator</h4>
+            <img src="https://media.giphy.com/media/zKQLlAz8IvNDIoJY9u/giphy.gif" alt="Gif of Bartender - Search for cocktails" style="max-width: 100%;" width="100%"">
+            <br>
+            <p>
+              <strong style="max-width: 50%;" width="50%">HTML5, CSS3, JavaScript</strong>
+              - Generate HD wallpapers using NASA APOD PI
+             <br>
+              <p>You can access this app <a href='https://space-themed-wallpaper-generator.netlify.app'>here</a>.</p>
+            </p>
+          </td> 
           
    </section>
 
