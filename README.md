@@ -3,14 +3,16 @@
 <p>Detail oriented full-stack software engineer who is proficient in HTML, CSS, Javascript, Node.js, MongoDB, and React. I work to create excellent, responsive websites that suit the wants and needs of my clients and am eager to solve problems through innovative solutions and collaboration.</p>
 
 <!-- All of my projects are available [here]().  -->
+<br>
 
 >You can reach me @ **zainbazaz96@gmail.com**.
 
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <table>
   <tbody>
     <tr>
-      <td style="width="50%"">
+      <td width='45%' valign='top'>
         <h4>Front-End Technologies</h4>
         <br>
         <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> 
@@ -18,7 +20,7 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
       </td>
-      <td style="width="50%"">
+      <td width='45%' valign='top'>
         <h4>Back-End Technologies</h4>
         <br>
            <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg" alt="node" width="40" height="40"/> </a> <a href="https://nodejs.org/en/" target="_blank"> 
